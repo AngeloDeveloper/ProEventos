@@ -63,3 +63,4 @@ This theme is free and open source software, distributed under the The MIT Licen
 
 If you’d like to give me credit somewhere on your blog or tweet a shout out to [@ozirispc](https://twitter.com/ozirispc), that would be pretty sweet.
 
+alterando readme
